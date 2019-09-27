@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minikube.Local.Helm.Chart.WebApplication", "src\Minikube.Local.Helm.Chart.WebApplication\Minikube.Local.Helm.Chart.WebApplication.csproj", "{2F1CA724-227C-444A-8C12-33E14864BD1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F1CA724-227C-444A-8C12-33E14864BD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1CA724-227C-444A-8C12-33E14864BD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1CA724-227C-444A-8C12-33E14864BD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1CA724-227C-444A-8C12-33E14864BD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
